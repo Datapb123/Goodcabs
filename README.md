@@ -1,4 +1,6 @@
 # Goodcabs Performance Analysis - 2024
+# Live Dashboard-
+https://app.powerbi.com/view?r=eyJrIjoiMjc0OTJiYmEtMGM3ZS00NjI0LWE2ODMtYTIwNjVmZTcyZTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Overview
 Goodcabs, a cab service provider in tier-2 cities across India, aims to achieve 2024 growth and passenger satisfaction targets. This analysis evaluates key metrics: trip volumes, passenger satisfaction, repeat passenger rates (RPR), and city-wise performance, providing actionable insights.
