@@ -20,7 +20,7 @@ Goodcabs, a cab service provider in tier-2 cities across India, aims to achieve 
 ---
 
 ## Skills and Features Utilized
-- **Data Analysis Tools:** Proficient use of Power BI and Excel for in-depth data visualization and trend analysis.
+- **Data Analysis Tools:** Proficient use of Power BI for in-depth data visualization and trend analysis.
 - **Metrics Evaluated:** Trip volume, passenger satisfaction, RPR, and city-wise trip distribution.
 - **Predictive Insights:** Identification of seasonal demand patterns and city-specific performance.
 - **Visualization Techniques:** Use of dashboards and graphs to represent insights effectively.
